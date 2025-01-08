@@ -2,9 +2,7 @@
 ### Olá, eu sou o Marcus Vinícius 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcus-viniciuslima)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.linkedin.com/in/marcus-viniciuslima
-
-)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.linkedin.com/in/marcus-viniciuslima)
 
 ![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusvlld&show_icons=true&theme=radical)
 
